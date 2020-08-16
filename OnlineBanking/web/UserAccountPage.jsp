@@ -1,5 +1,3 @@
-<%-- Masthan Swamy --%>
-
 <%@ page import="java.sql.*" %>
 <%@ page import="java.text.SimpleDateFormat" %>
 
